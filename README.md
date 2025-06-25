@@ -5,7 +5,7 @@ This is a Verilog implementation of a 5-stage pipelined RISC-V processor based o
 
 Below is the architecture of the 5-stage pipelined RISC-V CPU with full hazard handling.
 
-![Pipeline Diagram](Screenshot 2025-06-25 222352.png)
+![Pipeline Diagram](assets/pipeline_diagram.png)
 
 
 
