@@ -8,4 +8,5 @@ This is a Verilog implementation of a 5-stage pipelined RISC-V processor based o
 - 5-stage pipeline: Fetch, Decode, Execute, Memory, Writeback
 - Hazard detection and forwarding logic
 - ALU with support for add, sub, and/or/xor/slt
+- Testbench for simulation and verification
   
