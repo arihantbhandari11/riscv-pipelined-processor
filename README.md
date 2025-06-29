@@ -18,5 +18,5 @@ Below is the architecture of the 5-stage pipelined RISC-V CPU with full hazard h
 - Testbench for simulation and verification
 
 - ## Project Structure
-- 'pipeline_processor.v' - Top level module
+- `pipeline_processor.v` - Top level module
   
