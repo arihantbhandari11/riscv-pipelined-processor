@@ -36,7 +36,8 @@ Below is the architecture of the 5-stage pipelined RISC-V CPU with full hazard h
 - Add `regfile.hex` and `instruction.hex` files as memory files
 - Run the testbench `testbench.v`
 
-- 
+##  Simulation
+![Simulation](assets/simulation.png)
   
   
   
