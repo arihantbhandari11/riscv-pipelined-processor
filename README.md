@@ -30,6 +30,13 @@ Below is the architecture of the 5-stage pipelined RISC-V CPU with full hazard h
 - `testbench.v` - Testbench for simulation
 - `regfile.hex` - Initial register values
 - `instruction.hex` - Machine code as instructions
+
+- ## How to Run
+- Compile all `.v` files in Vivado
+- Add `regfile.hex` and `instruction.hex` files as memory files
+- Run the testbench `testbench.v`
+
+- 
   
   
   
