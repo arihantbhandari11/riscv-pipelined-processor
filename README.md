@@ -19,4 +19,17 @@ Below is the architecture of the 5-stage pipelined RISC-V CPU with full hazard h
 
 - ## Project Structure
 - `pipeline_processor.v` - Top level module
+- `riscv.v` - Core CPU integration
+- `datapath.v` - All datapath components
+- `controller.v` - Controller for control signals
+- `alu.v` - Arithmetic logic unit
+- `extend.v` - Sign extension to 32 bits
+- `hazard.v` - Hazard unit
+- `imem.v / dmem.v` - Instruction and data memory
+- `regfile.v` - Register file
+- `testbench.v` - Testbench for simulation
+- `regfile.hex` - Initial register values
+- `instruction.hex` - Machine code as instructions
+  
+  
   
