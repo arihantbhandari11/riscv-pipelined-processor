@@ -16,4 +16,7 @@ Below is the architecture of the 5-stage pipelined RISC-V CPU with full hazard h
 - Hazard detection and forwarding logic
 - ALU with support for add, sub, and/or/xor/slt
 - Testbench for simulation and verification
+
+- ## Project Structure
+- 'pipeline_processor.v' - Top level module
   
